@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Set file permissions: owner rwx, group r-x, others -wx
 chmod 751 hello
