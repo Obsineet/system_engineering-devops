@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# Add execute permission to all directories in the current directory
+#!/bin/bash
 chmod a+x */
