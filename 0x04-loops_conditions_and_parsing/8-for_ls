@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# This script lists directory contents without the first dash part
+for file in *
+do
+ echo "${file#*-}"
+done
